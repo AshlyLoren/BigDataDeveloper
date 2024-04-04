@@ -1,7 +1,7 @@
 
-CREATE DATABASE retail_db;
+CREATE DATABASE retail_db_2;
 
-USE retail_db;
+USE retail_db_2;
 
 CREATE EXTERNAL TABLE IF NOT EXISTS categories
 (category_id int,
